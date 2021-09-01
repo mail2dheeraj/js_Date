@@ -1,0 +1,22 @@
+{
+  "name": "js_date",
+  "version": "1.0.0",
+  "description": "js ground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mail2dheeraj/js_Date.git"
+  },
+  "keywords": [
+    "jsDate"
+  ],
+  "author": "Dheeraj Madde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mail2dheeraj/js_Date/issues"
+  },
+  "homepage": "https://github.com/mail2dheeraj/js_Date#readme"
+}
